@@ -6,4 +6,4 @@ public class HelloWorld {
     System.out.println("Hello, World");
   }
 }
-© 2020 GitHub, Inc.
+
